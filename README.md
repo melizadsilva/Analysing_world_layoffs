@@ -1,4 +1,4 @@
-# Analysing_world_layoffs
+# Analysing World Layoffs using SQL
 ## Data Cleaning and Transformation
 
 ### Create a Duplicate Table
